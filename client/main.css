@@ -1,1 +1,8 @@
-/* CSS declarations go here */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+
+.whiteboard-container canvas {
+    border: 1px solid #000000;
+}
