@@ -6,3 +6,7 @@ body {
 .whiteboard-container canvas {
     border: 1px solid #000000;
 }
+
+.whiteboard-container {
+    text-align: center;
+}
